@@ -18,7 +18,7 @@ a{
   #tit{
     color:black;
   }
-  #grid1 ol{
+  #grid1>ol{
     border-right:10px solid rgb(250,70,0);
     width:300px;
     padding-left: 10px;
@@ -47,7 +47,7 @@ a{
         margin-right:30px;
         padding-top:10px;
       }
-      #grid1 ol{
+      #grid1>ol{
         width:300px;
         padding-left: 10px;
         padding-right:35px;
